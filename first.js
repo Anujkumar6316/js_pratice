@@ -37,3 +37,28 @@ const student = {
     isPass: true
 }
 console.log('Details of student: ', student);
+
+//operator in js
+let a=5;
+let b=6;
+
+// arithmetic operator
+console.log('a+b= ',a+b);
+console.log('a-b= ',a-b);
+console.log('a*b= ',a*b);
+console.log('a/b= ',a/b);
+
+// exponential and modulus
+console.log('a**b= ',a**b);
+console.log('a%b= ',a%b);
+
+// uinary operator
+// increment
+console.log('++a= ',++a); //pre increment o/p:6
+a=5;
+console.log('a++= ',a++); //post increment o/p:5
+// decrement
+a=5;
+console.log('--a= ',--a); //pre decrement o/p:4
+a=5;
+console.log('a--= ',a--); //post decrement o/p:5

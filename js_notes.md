@@ -155,7 +155,7 @@ multi line comment.
     console.log(x,'!==',y,":",x!==y);
 ```
 - **Logical operators**: &&(and), ||(or), !(not)
-| a | b | &&(and) |!(not) | \| \|(or) | 
+| a | b | &&(and) |!(not) | \| \| |(or) | 
 |---|---|---------|--------|-------|
 |true|true|true|false|true|
 |true|false|false|true|true|

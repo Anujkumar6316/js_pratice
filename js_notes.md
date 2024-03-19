@@ -454,3 +454,16 @@ Q. Calculate the square for the each element in an array.
         return val*2;
     })
 ```
+2. Filter: Creates a new array of elements that give true for a condition/filter.
+<br>eg: all even elements
+```js
+    let newArr = arr.filter( (val) => {
+        return val%2 === 0;
+    })
+```
+
+3. Reduce: Performs some operations and reduces the array to a single value. It returns that single value.
+```js
+
+```
+![alt text](Screenshot_select-area_20240319222335.png)
